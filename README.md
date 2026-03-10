@@ -13,7 +13,10 @@ EDA
 Logistic Regression
 Random Forest
 XGBoost
+## Customer Churn Prediction
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/yourusername/Data-Analytics-Projects/blob/main/Customer-Churn-Prediction/churn_prediction.ipynb)
 
 Project 2: Healthcare Predictive Analytics
 Goal:
